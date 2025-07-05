@@ -1,22 +1,29 @@
-<h2>Hello there!</h2>
-<p> I'm Ashish Kumar, a final year computer science student at VIT Bhopal University in India. Currently, I'm engrossed in Full-stack web-development.</p>
+<h2 align="left">Hello there!</h2>
 
 ###
 
-<h3> Contact</h3>
+<p align="left">I'm Ashish Kumar, a final year computer science student at VIT Bhopal University in India. Currently, I'm engrossed in Full-stack web-development.</p>
+
+###
+
+<h3 align="left">Contact</h3>
+
+###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ashish-kumar-11151420a/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="mailto:ashishhk416@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
-  <a href="mailto:ashishhk416@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/ashish-kumar-11151420a/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
 
-<h3> Technical Stack</h3>
+<h3 align="left">Technical Stack</h3>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -43,3 +50,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
+
+###
