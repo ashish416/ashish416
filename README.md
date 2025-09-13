@@ -22,7 +22,7 @@ Hello there!
 
 ###
 
-<h3 align="left">Technical Stack</h3>
+<h3 align="left">Tools of Trade</h3>
 
 | Programming Language | Version Control |
 | :--- | ---: |
