@@ -3,7 +3,7 @@ Hello there!
 
 ###
 
-<p align="left">I'm Ashish Kumar, a final year computer science student at VIT Bhopal University in India. Currently, I'm engrossed in Full-stack web-development. My current focus and passion lie in building robust, scalable, and user-friendly web applications using the MERN stack</p>
+<p align="left">I'm Ashish Kumar, a final year computer science student at VIT Bhopal University in India. Currently, I'm engrossed in Full-stack web-development. My current focus and passion lie in building robust, scalable, and user-friendly web applications using the MERN stack.</p>
 
 ###
 
