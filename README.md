@@ -8,8 +8,8 @@ Hello there!
 ###
 
 [![wakatime](https://wakatime.com/badge/user/eafdbba4-cec2-4c99-8cd5-5fc36bb00274.svg)](https://wakatime.com/@eafdbba4-cec2-4c99-8cd5-5fc36bb00274)
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fashleymavericks&logo=leetcode&logoColor=yellow)](https://leetcode.com/ashleymavericks/)
-[![ProfileViews](https://komarev.com/ghpvc/?username=ashleymavericks&color=red&style=flat)](https://komarev.com/ghpvc/?username=ashleymavericks)
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fashleymavericks&logo=leetcode&logoColor=yellow)](https://leetcode.com/ashishhk416/)
+[![ProfileViews](https://komarev.com/ghpvc/?username=ashishh416&color=red&style=flat)](https://komarev.com/ghpvc/?username=ashleymavericks)
 
 ###
 
